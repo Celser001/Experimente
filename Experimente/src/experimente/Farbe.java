@@ -6,6 +6,10 @@ public class Farbe {
 	public Farbe(String wert) {
 		farbwert = wert;
 	}
+	/**
+	 * test
+	 * @return
+	 */
 
 	public String getFarbwert() {
 		return farbwert;
