@@ -21,7 +21,7 @@ public class Farbe {
 	/**
 	 * Konstruktor
 	 * 
-	 * @param wert Ein String, welcher die Farbe beschreibt. Z.B. <code>rot</code>.
+	 * @param wert Ein String, welcher die Farbe beschreibt. Z.B. <code style= "color:red;">rot</code>.
 	 */
 	public Farbe(String wert) {
 		farbwert = wert;
